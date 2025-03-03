@@ -1,0 +1,4 @@
+main() {
+	fibi();
+	fact();
+}
